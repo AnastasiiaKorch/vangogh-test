@@ -21,7 +21,7 @@ const Footer = () => {
     }, []);
 
     return (
-        <footer className="bg-black py-4">
+        <footer className="bg-black py-4"><></>
             <Container>
                 {windowWidth < 770 && (<div>
                     <Image src={logo} alt="Логотип" fluid style={{marginTop:"50px"}} />
