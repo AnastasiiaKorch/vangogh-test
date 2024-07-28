@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f4da082.css",
+    "main.js": "/static/js/main.f2213037.js",
+    "static/media/whiteLongLight.png": "/static/media/whiteLongLight.34b9a984842095973d6d.png",
+    "static/media/darkLongLight.png": "/static/media/darkLongLight.3f3f88a9d04dd28b81fc.png",
+    "static/media/roundLight.png": "/static/media/roundLight.33e7ca5ac7ab03371ae8.png",
+    "static/media/KoratakiRegular.ttf": "/static/media/KoratakiRegular.e13b3d3c2a2a38b012fe.ttf",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "index.html": "/index.html",
+    "main.6f4da082.css.map": "/static/css/main.6f4da082.css.map",
+    "main.f2213037.js.map": "/static/js/main.f2213037.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f4da082.css",
+    "static/js/main.f2213037.js"
+  ]
+}
