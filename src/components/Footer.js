@@ -1,9 +1,9 @@
 import React, {useState, useEffect} from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
-import logo from "../static/logoWhite.png";
-import visa from '../static/visaLogo.png';
-import mastercard from "../static/mastercardLogo.png";
-import mir from "../static/mirLogo.png"
+import logo from "../imgs/logoWhite.png";
+import visa from '../imgs/visaLogo.png';
+import mastercard from "../imgs/mastercardLogo.png";
+import mir from "../imgs/mirLogo.png"
 
 const Footer = () => {
     const [windowWidth, setWindowWidth] = useState(window.innerWidth);

@@ -6,10 +6,10 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 
 import {Image} from "react-bootstrap";
-import logo from "../static/Logo.png"
-import search from "../static/search.png"
-import basket from '../static/basket.png'
-import searchWhite from "../static/search-normal.png"
+import logo from "../imgs/Logo.png"
+import search from "../imgs/search.png"
+import basket from '../imgs/basket.png'
+import searchWhite from "../imgs/search-normal.png"
 import { FaBars } from 'react-icons/fa'
 
 function NavBar() {

@@ -1,6 +1,6 @@
-import roundLight from "../static/roundLight.png"
-import darkLongLight from "../static/darkLongLight.png"
-import whiteLongLight from "../static/whiteLongLight.png"
+import roundLight from "../imgs/roundLight.png"
+import darkLongLight from "../imgs/darkLongLight.png"
+import whiteLongLight from "../imgs/whiteLongLight.png"
 
 export default class DeviceStore {
     constructor() {
